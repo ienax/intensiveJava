@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ebb1f94-8b9e-433a-b549-6d0260914f44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/skilllbox_java" />
+  </component>
+  <component name="ProjectId" id="1WnsdNacBu6VpiH9gXSffSlVVMF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\napos\IdeaProjects\intensiveJava\Lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="intensiveJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ebb1f94-8b9e-433a-b549-6d0260914f44" name="Default Changelist" comment="" />
+      <created>1579796780564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579796780564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="31" key="GridCell.Tab.0.bottom" timestamp="1579943492660">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689/-1440.278.1152.690@0.0.1280.689" timestamp="1579896036966" />
+    <state width="1237" height="31" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1579943492660" />
+    <state width="1237" height="31" key="GridCell.Tab.0.center" timestamp="1579943492660">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689/-1440.278.1152.690@0.0.1280.689" timestamp="1579896036966" />
+    <state width="1237" height="31" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1579943492660" />
+    <state width="1237" height="31" key="GridCell.Tab.0.left" timestamp="1579943492660">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689/-1440.278.1152.690@0.0.1280.689" timestamp="1579896036966" />
+    <state width="1237" height="31" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1579943492660" />
+    <state width="1237" height="31" key="GridCell.Tab.0.right" timestamp="1579943492660">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689/-1440.278.1152.690@0.0.1280.689" timestamp="1579896036966" />
+    <state width="1237" height="31" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1579943492660" />
+    <state width="1237" height="90" key="GridCell.Tab.1.bottom" timestamp="1579897330252">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="90" key="GridCell.Tab.1.bottom/0.0.1280.689/-1440.278.1152.690@0.0.1280.689" timestamp="1579895809218" />
+    <state width="1237" height="90" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1579897330252" />
+    <state width="1237" height="90" key="GridCell.Tab.1.center" timestamp="1579897330252">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="90" key="GridCell.Tab.1.center/0.0.1280.689/-1440.278.1152.690@0.0.1280.689" timestamp="1579895809218" />
+    <state width="1237" height="90" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1579897330252" />
+    <state width="1237" height="90" key="GridCell.Tab.1.left" timestamp="1579897330252">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="90" key="GridCell.Tab.1.left/0.0.1280.689/-1440.278.1152.690@0.0.1280.689" timestamp="1579895809218" />
+    <state width="1237" height="90" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1579897330252" />
+    <state width="1237" height="90" key="GridCell.Tab.1.right" timestamp="1579897330252">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="90" key="GridCell.Tab.1.right/0.0.1280.689/-1440.278.1152.690@0.0.1280.689" timestamp="1579895809218" />
+    <state width="1237" height="90" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1579897330252" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1579943477966">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1579943477966" />
+    <state x="341" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1579932716740">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="341" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1579932716739" />
+    <state x="450" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579937677481">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="450" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.689@0.0.1280.689" timestamp="1579937677481" />
+    <state x="371" y="102" key="extract.method.dialog" timestamp="1579941734507">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="102" key="extract.method.dialog/0.0.1280.689@0.0.1280.689" timestamp="1579941734507" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/intensiveJava$main.ic" NAME="main Coverage Results" MODIFIED="1579892810519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
